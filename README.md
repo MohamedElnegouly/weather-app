@@ -24,6 +24,16 @@ If you're new to Flutter, the following resources can help you get started:
 
 To get started with this project, follow these steps.
 
+## Usage
+
+Start the application:
+bash
+
+- Open the app.
+- Navigate to the Search Page.
+- Enter the name of the city you want to check the weather for.
+- Press the Search button to retrieve the weather information for the specified city.
+
 ## Installation
 
 1. Install Flutter: Ensure you have Flutter installed on your machine. You can find installation instructions [here](https://docs.flutter.dev/get-started/install).
@@ -31,3 +41,5 @@ To get started with this project, follow these steps.
 2. Clone the repository:
  ```bash
 https://github.com/MohamedElnegouly/weather-app.git
+
+
