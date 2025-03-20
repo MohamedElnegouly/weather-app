@@ -27,7 +27,6 @@ To get started with this project, follow these steps.
 ## Usage
 
 Start the application:
-bash
 
 - Open the app.
 - Navigate to the Search Page.
